@@ -1,4 +1,6 @@
 # 2a_Stop_and_Wait_Protocol
+## Name : H Vishinu
+## Reg No : 212223220124
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
